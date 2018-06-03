@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#111</color>
+    <color name="colorPrimaryDark">#FFF</color>
+    <color name="colorAccent">#ea3732</color>
+    <color name="contact_name">#333333</color>
+    <color name="contact_number">#8c8c8c</color>
+    <color name="color_preloader_start">#000000</color>
+    <color name="color_preloader_center">#000000</color>
+    <color name="color_preloader_end">#ff56a9c7</color>
+</resources>
